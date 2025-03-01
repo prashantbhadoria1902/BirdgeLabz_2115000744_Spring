@@ -6,6 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class FirstSpringAppApplication2 {
     public static void main(String[] args) {
-        SpringApplication.run(FirstSpringAppApplication.class, args);
+        SpringApplication.run(FirstSpringAppApplication2.class, args);
     }
 }
